@@ -1,9 +1,9 @@
-title: Yixin Zhang
-author: Yixin
-  name: yixinzhang12
-  email: yixinzhang111@gmail.com
+title: [Yixin Zhang]
+author: [Yixin]
+  name: [yixinzhang12]
+  email: [yixinzhang111@gmail.com]
 description: > # this means to ignore newlines until "show_excerpts:"
-  test description
+  [test description]
 
 show_excerpts: [false] # set to true to show excerpts on the homepage
 
@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  yixinzhang12
+#     twitter: jekyllrb
+    github:  [yixinzhang12]
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -51,7 +51,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+theme: [minima]
 
 plugins:
  - jekyll-feed
